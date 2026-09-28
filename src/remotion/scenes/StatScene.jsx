@@ -1,0 +1,4 @@
+import {Easing, interpolate, useCurrentFrame} from 'remotion';
+import {BrandFrame} from '../components/BrandFrame';
+
+export const StatScene = ({scene}) => {const frame=useCurrentFrame(); return <BrandFrame accent={scene.accent} kicker="KEY NUMBER"><div style={{position:'absolute',inset:'230px 72px 280px',display:'flex',flexDirection:'column',justifyContent:'center',alignItems:'center',textAlign:'center'}}><div style={{fontSize:190,fontWeight:950,color:scene.accent,letterSpacing:-12,scale:interpolate(frame,[0,20],[.5,1],{extrapolateRight:'clamp',easing:Easing.spring({damping:14}),output:'perceptual-scale'}),textShadow:`0 0 80px ${scene.accent}55`}}>{scene.headline}</div><div style={{height:2,width:'70%',background:'rgba(255,255,255,.18)',margin:'50px 0'}}/><div style={{fontSize:54,lineHeight:1.35,fontWeight:800,maxWidth:800}}>{scene.body}</div></div></BrandFrame>};

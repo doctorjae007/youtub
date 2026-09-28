@@ -1,0 +1,143 @@
+{
+  "id": "project-idea-fullback",
+  "ideaId": "idea-fullback",
+  "title": "ฟูลแบ็กหายไปไหนในฟุตบอลยุคใหม่",
+  "status": "draft",
+  "createdAt": "2026-09-27T15:33:34.916Z",
+  "video": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "durationInSeconds": 45
+  },
+  "script": "เห็นฟูลแบ็กไม่อยู่ริมเส้น ไม่ได้แปลว่าเขาหายไป หลายทีมให้ฟูลแบ็กขยับเข้ากลางเมื่อครองบอล เพื่อเพิ่มคนในแดนกลาง ช่วยหนีเพรส และเปิดทางให้ปีกยืนกว้าง ข้อดีคือคุมพื้นที่กลางสนามได้ดีขึ้น แต่ความเสี่ยงคือพื้นที่ด้านข้างจะเปิดทันทีเมื่อเสียบอล นี่คือเหตุผลที่ตำแหน่งฟูลแบ็กยุคใหม่ ต้องคิดแบบกองกลางและวิ่งแบบกองหลัง",
+  "caption": "ฟูลแบ็กที่ยืนเหมือนกองกลาง คือหัวใจของหลายทีมยุคใหม่",
+  "hashtags": [
+    "#Tactics",
+    "#ฟุตบอล",
+    "#InvertedFullback"
+  ],
+  "voice": {
+    "provider": "mock",
+    "source": null
+  },
+  "assets": {
+    "provider": "css-svg",
+    "userAssets": []
+  },
+  "subtitles": [
+    {
+      "text": " คำตอบอยู่กลางสนาม",
+      "startMs": 0,
+      "endMs": 5000,
+      "timestampMs": 0,
+      "confidence": 1
+    },
+    {
+      "text": " เพิ่มจำนวนผู้เล่นตรงกลาง",
+      "startMs": 5000,
+      "endMs": 14000,
+      "timestampMs": 5000,
+      "confidence": 1
+    },
+    {
+      "text": " สนามถูกขยายออกทั้งสองด้าน",
+      "startMs": 14000,
+      "endMs": 22000,
+      "timestampMs": 14000,
+      "confidence": 1
+    },
+    {
+      "text": " ทางเลือกจ่ายบอลเพิ่มทันที",
+      "startMs": 22000,
+      "endMs": 29000,
+      "timestampMs": 22000,
+      "confidence": 1
+    },
+    {
+      "text": " เสียบอลเมื่อไร ด้านข้างเปิดเมื่อนั้น",
+      "startMs": 29000,
+      "endMs": 37000,
+      "timestampMs": 29000,
+      "confidence": 1
+    },
+    {
+      "text": " ฟุตบอลยุคใหม่บอกว่า: ทั้งคู่",
+      "startMs": 37000,
+      "endMs": 45000,
+      "timestampMs": 37000,
+      "confidence": 1
+    }
+  ],
+  "scenes": [
+    {
+      "id": "s1",
+      "type": "hook",
+      "duration": 5,
+      "headline": "ฟูลแบ็กหายไปไหน?",
+      "body": "คำตอบอยู่กลางสนาม",
+      "accent": "#d7ff3f",
+      "order": 1,
+      "label": "Hook",
+      "durationInFrames": 150
+    },
+    {
+      "id": "s2",
+      "type": "tactical",
+      "duration": 9,
+      "headline": "ขยับเข้าด้านใน",
+      "body": "เพิ่มจำนวนผู้เล่นตรงกลาง",
+      "accent": "#6ee7b7",
+      "order": 2,
+      "label": "Tactical board",
+      "durationInFrames": 270
+    },
+    {
+      "id": "s3",
+      "type": "tactical",
+      "duration": 8,
+      "headline": "ปีกยืนกว้าง",
+      "body": "สนามถูกขยายออกทั้งสองด้าน",
+      "accent": "#60a5fa",
+      "order": 3,
+      "label": "Tactical board",
+      "durationInFrames": 240
+    },
+    {
+      "id": "s4",
+      "type": "stat",
+      "duration": 7,
+      "headline": "+1 กลางสนาม",
+      "body": "ทางเลือกจ่ายบอลเพิ่มทันที",
+      "accent": "#d7ff3f",
+      "order": 4,
+      "label": "Stat card",
+      "durationInFrames": 210
+    },
+    {
+      "id": "s5",
+      "type": "headline",
+      "duration": 8,
+      "headline": "รางวัลมาพร้อมความเสี่ยง",
+      "body": "เสียบอลเมื่อไร ด้านข้างเปิดเมื่อนั้น",
+      "accent": "#fb7185",
+      "order": 5,
+      "label": "Headline",
+      "durationInFrames": 240
+    },
+    {
+      "id": "s6",
+      "type": "cta",
+      "duration": 8,
+      "headline": "ฟูลแบ็กหรือกองกลาง?",
+      "body": "ฟุตบอลยุคใหม่บอกว่า: ทั้งคู่",
+      "accent": "#d7ff3f",
+      "order": 6,
+      "label": "Call to action",
+      "durationInFrames": 240
+    }
+  ],
+  "sourceNotes": [
+    "สรุปแนวคิด inverted full-back ในภาษาต้นฉบับของผู้จัดทำ"
+  ]
+}

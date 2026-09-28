@@ -1,0 +1,3 @@
+import {Bell, CalendarDays, ChevronDown, Play} from 'lucide-react';
+
+export const Header = ({title, subtitle, onOpenStudio}) => <header className="topbar"><div><div className="eyebrow"><span>FOOTBALL CONTENT OS</span><i/> LIVE WORKSPACE</div><h1>{title}</h1><p>{subtitle}</p></div><div className="header-actions"><button className="date-chip"><CalendarDays size={16}/> Today <ChevronDown size={14}/></button><button className="icon-button"><Bell size={18}/><i/></button><button className="primary compact" onClick={onOpenStudio}><Play size={16} fill="currentColor"/> Open studio</button></div></header>;

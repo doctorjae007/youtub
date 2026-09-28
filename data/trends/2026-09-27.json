@@ -1,0 +1,13 @@
+{
+  "date": "2026-09-27",
+  "mode": "mock",
+  "generatedAt": "2026-09-27T08:30:00.000Z",
+  "trends": [
+    {"id":"trend-1","videoId":"mock-pl-001","title":"อาร์เซนอลเปลี่ยนจังหวะเพรสซิ่งอย่างไรในเกมใหญ่","channel":"Tactical Room","publishedAt":"2026-09-27T03:30:00.000Z","views":284600,"likes":21900,"comments":1830,"url":"https://youtube.com/watch?v=mock-pl-001","topic":"Premier League","videoAgeHours":5,"viewsPerHour":56920,"likeRate":7.69,"commentRate":0.64,"trendScore":96,"freshness":"สดมาก","risk":"ต่ำ"},
+    {"id":"trend-2","videoId":"mock-ucl-002","title":"กองหน้าหมายเลข 9 กำลังกลับมาครองยุโรป","channel":"European Football Lab","publishedAt":"2026-09-27T01:30:00.000Z","views":391200,"likes":27200,"comments":2150,"url":"https://youtube.com/watch?v=mock-ucl-002","topic":"Champions League","videoAgeHours":7,"viewsPerHour":55886,"likeRate":6.95,"commentRate":0.55,"trendScore":93,"freshness":"สดมาก","risk":"กลาง"},
+    {"id":"trend-3","videoId":"mock-player-003","title":"จากตัวสำรองสู่คนเปลี่ยนเกม: เรื่องราวของดาวรุ่งวัย 19","channel":"Next Gen Football","publishedAt":"2026-09-26T22:30:00.000Z","views":318900,"likes":30100,"comments":2780,"url":"https://youtube.com/watch?v=mock-player-003","topic":"Player Stories","videoAgeHours":10,"viewsPerHour":31890,"likeRate":9.44,"commentRate":0.87,"trendScore":91,"freshness":"สด","risk":"ต่ำ"},
+    {"id":"trend-4","videoId":"mock-tactic-004","title":"ทำไมทีมชั้นนำเริ่มใช้ฟูลแบ็กยืนกลางสนาม","channel":"Board & Boots","publishedAt":"2026-09-26T19:30:00.000Z","views":247500,"likes":18800,"comments":1640,"url":"https://youtube.com/watch?v=mock-tactic-004","topic":"Football Tactics","videoAgeHours":13,"viewsPerHour":19038,"likeRate":7.60,"commentRate":0.66,"trendScore":86,"freshness":"สด","risk":"ต่ำ"},
+    {"id":"trend-5","videoId":"mock-news-005","title":"ตลาดนักเตะ: 3 ดีลที่อาจเปลี่ยนสมดุลลีก","channel":"Football Daily Brief","publishedAt":"2026-09-26T16:30:00.000Z","views":510200,"likes":24500,"comments":3410,"url":"https://youtube.com/watch?v=mock-news-005","topic":"Football News","videoAgeHours":16,"viewsPerHour":31888,"likeRate":4.80,"commentRate":0.67,"trendScore":83,"freshness":"วันนี้","risk":"สูง"},
+    {"id":"trend-6","videoId":"mock-fact-006","title":"สถิติที่พิสูจน์ว่าลูกตั้งเตะสำคัญกว่าที่คิด","channel":"Numbers FC","publishedAt":"2026-09-26T13:30:00.000Z","views":192800,"likes":14600,"comments":920,"url":"https://youtube.com/watch?v=mock-fact-006","topic":"Football Facts","videoAgeHours":19,"viewsPerHour":10147,"likeRate":7.57,"commentRate":0.48,"trendScore":78,"freshness":"วันนี้","risk":"ต่ำ"}
+  ]
+}

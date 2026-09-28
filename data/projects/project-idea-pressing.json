@@ -1,0 +1,145 @@
+{
+  "id": "project-idea-pressing",
+  "ideaId": "idea-pressing",
+  "title": "กับดัก 7 วินาทีที่เปลี่ยนเกมใหญ่",
+  "status": "draft",
+  "createdAt": "2026-09-27T15:24:33.434Z",
+  "video": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "durationInSeconds": 42
+  },
+  "script": "7 วินาทีแรกหลังเสียบอล อาจสำคัญกว่าทั้ง 90 นาที นี่คือช่วงที่คู่แข่งยังจัดระเบียบไม่ทัน ทีมระดับท็อปจึงไม่ได้วิ่งไล่แบบไร้ทิศทาง แต่ปิดทางส่งบอลด้านในก่อน แล้วบังคับให้บอลออกริมเส้น เมื่อบอลไปถึงจุดนั้น ผู้เล่นสามคนจะบีบพื้นที่พร้อมกัน ผลคือได้บอลคืนใกล้ประตูและสร้างโอกาสโดยไม่ต้องต่อบอลยาว คราวหน้าที่ดูเกม ลองจับตา 7 วินาทีนี้ แล้วคุณจะเห็นแท็กติกที่ซ่อนอยู่",
+  "caption": "เพรสซิ่งที่ดีไม่ได้เริ่มจากการวิ่งเร็ว แต่เริ่มจากการปิดทางให้ถูก ⚽",
+  "hashtags": [
+    "#ฟุตบอล",
+    "#พรีเมียร์ลีก",
+    "#แท็กติกฟุตบอล",
+    "#FootballTikTok"
+  ],
+  "voice": {
+    "provider": "mock",
+    "source": null
+  },
+  "assets": {
+    "provider": "css-svg",
+    "userAssets": []
+  },
+  "subtitles": [
+    {
+      "text": " ช่วงเวลาที่เปลี่ยนทั้งเกม",
+      "startMs": 0,
+      "endMs": 5000,
+      "timestampMs": 0,
+      "confidence": 1
+    },
+    {
+      "text": " คู่แข่งยังจัดระเบียบไม่ทัน",
+      "startMs": 5000,
+      "endMs": 11000,
+      "timestampMs": 5000,
+      "confidence": 1
+    },
+    {
+      "text": " บังคับบอลออกริมเส้น",
+      "startMs": 11000,
+      "endMs": 19000,
+      "timestampMs": 11000,
+      "confidence": 1
+    },
+    {
+      "text": " สร้างความได้เปรียบตรงจุดบีบ",
+      "startMs": 19000,
+      "endMs": 26000,
+      "timestampMs": 19000,
+      "confidence": 1
+    },
+    {
+      "text": " โอกาสยิงเกิดโดยไม่ต้องเซ็ตเกมใหม่",
+      "startMs": 26000,
+      "endMs": 34000,
+      "timestampMs": 26000,
+      "confidence": 1
+    },
+    {
+      "text": " แล้วคุณจะเห็นเกมอีกแบบ",
+      "startMs": 34000,
+      "endMs": 42000,
+      "timestampMs": 34000,
+      "confidence": 1
+    }
+  ],
+  "scenes": [
+    {
+      "id": "s1",
+      "type": "hook",
+      "duration": 5,
+      "headline": "7 วินาที",
+      "body": "ช่วงเวลาที่เปลี่ยนทั้งเกม",
+      "accent": "#d7ff3f",
+      "order": 1,
+      "label": "Hook",
+      "durationInFrames": 150
+    },
+    {
+      "id": "s2",
+      "type": "headline",
+      "duration": 6,
+      "headline": "หลังเสียบอล",
+      "body": "คู่แข่งยังจัดระเบียบไม่ทัน",
+      "accent": "#6ee7b7",
+      "order": 2,
+      "label": "Headline",
+      "durationInFrames": 180
+    },
+    {
+      "id": "s3",
+      "type": "tactical",
+      "duration": 8,
+      "headline": "ปิดตรงกลางก่อน",
+      "body": "บังคับบอลออกริมเส้น",
+      "accent": "#d7ff3f",
+      "order": 3,
+      "label": "Tactical board",
+      "durationInFrames": 240
+    },
+    {
+      "id": "s4",
+      "type": "stat",
+      "duration": 7,
+      "headline": "3 ต่อ 1",
+      "body": "สร้างความได้เปรียบตรงจุดบีบ",
+      "accent": "#60a5fa",
+      "order": 4,
+      "label": "Stat card",
+      "durationInFrames": 210
+    },
+    {
+      "id": "s5",
+      "type": "tactical",
+      "duration": 8,
+      "headline": "แย่งคืนใกล้ประตู",
+      "body": "โอกาสยิงเกิดโดยไม่ต้องเซ็ตเกมใหม่",
+      "accent": "#fb7185",
+      "order": 5,
+      "label": "Tactical board",
+      "durationInFrames": 240
+    },
+    {
+      "id": "s6",
+      "type": "cta",
+      "duration": 8,
+      "headline": "ลองดู 7 วินาทีนี้",
+      "body": "แล้วคุณจะเห็นเกมอีกแบบ",
+      "accent": "#d7ff3f",
+      "order": 6,
+      "label": "Call to action",
+      "durationInFrames": 240
+    }
+  ],
+  "sourceNotes": [
+    "เรียบเรียงจากแนวโน้มคอนเทนต์ด้าน pressing traps",
+    "ตัวเลขในตัวอย่างเป็นภาพอธิบาย ไม่ใช่สถิติการแข่งขันสด"
+  ]
+}
